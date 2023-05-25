@@ -27,3 +27,10 @@
  •Git
  
  entre otras tencnologias y herramientas para una mejor organizacion y manejo de los proyectos a realizar
+ 
+ ## por aca me pueden contactar
+ email:palacioulises042gmail.com
+ 
+ linkedin:https://www.linkedin.com/in/ulises-palacio-6b0673271/
+ 
+ 
