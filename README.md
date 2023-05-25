@@ -13,12 +13,12 @@
  el bootcamp soy henry me a brindado de conocimientos en tecnologias para el desarrollo full stack y ellas son 
  
  •Javascript
- 
+  
  •React.js
  
  •Node.js
- 
- •Express
+  
+ •Express                      
  
  •PostgresSQL
  
@@ -28,7 +28,7 @@
  
  entre otras tencnologias y herramientas para una mejor organizacion y manejo de los proyectos a realizar
  
- ## por esta seccion me pueden contactar🤝
+ ## por esta seccion me pueden contactar 📲🤝
  mail:palacioulises042gmail.com
  
  linkedin:https://www.linkedin.com/in/ulises-palacio-6b0673271/
