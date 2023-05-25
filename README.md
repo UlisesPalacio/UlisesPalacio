@@ -9,3 +9,21 @@
 ## ¿OBJETIVO?
  Mi objetivo es es desarrollar mejoras y soluciones a problemas reales dentro del mundo IT ademas de crecer y conocer mas a fondo este mundo que aun muchas cosas siguen siendo un misterio para mi 
 
+## Tecnologías
+ el bootcamp soy henry me a brindado de conocimientos en tecnologias para el desarrollo full stack y ellas son 
+ 
+ •Javascript
+ 
+ •React.js
+ 
+ •Node.js
+ 
+ •Express
+ 
+ •PostgresSQL
+ 
+ •Sequelize
+ 
+ •Git
+ 
+ entre otras tencnologias y herramientas para una mejor organizacion y manejo de los proyectos a realizar
